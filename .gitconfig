@@ -1,0 +1,20 @@
+[user]
+
+	name = Christopher Randin
+
+	email = cdrandin@hotmail.com
+
+[alias]
+
+	st = status
+
+	check = checkout
+
+	gpush = git push origin
+
+	gpull = git pull origin
+
+[credential]
+
+	helper = cache
+
